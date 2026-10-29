@@ -54,6 +54,9 @@ The first line contains `W` (roll width) and `N` (total number of rectangles). E
 
 ```
 .
+├── 3_2(small).inp # Small dataset example
+├── 8-20(medium).inp # Medium dataset example
+├── 8-90(large).inp # Large dataset example
 ├── exh.cc        # Exhaustive search (backtracking with pruning)
 ├── greedy.cc     # Greedy algorithm
 ├── mh.cc         # Metaheuristic (simulated annealing)
@@ -95,5 +98,5 @@ The first line contains `W` (roll width) and `N` (total number of rectangles). E
 
 ## 👥 Authors
 
-- **<Author 1>**
-- **<Author 2>**
+- **<Lucas Viner**
+- **Oriol Parent**
