@@ -2,9 +2,6 @@
 
 Three C++ solvers (**exhaustive search**, **greedy** and **simulated annealing**) for a two-dimensional rectangle packing problem on a fixed-width fabric roll, with the aim of minimising the length of the roll a loom has to produce.
 
-> Project for *Algorísmia i Programació III* (Algorithms and Programming III) · Universitat Politècnica de Catalunya (UPC) · Bachelor's in Data Science and Engineering (GCED) · Academic year 2024–2025
-> Authors: **Lucas Viner & Oriol Parent**
-
 ---
 
 ## 📌 Overview
